@@ -1,16 +1,23 @@
 # Rustam Gadzhibekov
 #### Junior Frontend Developer
+
 *****
 #### Contact information:
+
 **Phone:** + 7 999 853 97 07
+
 **Email:** gadzhibekov97@list.ru
+
 **Telegram:** @CalcmanFaut
+
 **Discord:** Calcman050
+
 ******
 #### Briefly About Myself:
 Cheerful, kind and sympathetic.
 Started studying deveopment to change my life. 
 I believe and hope that I will succeed!
+
 *****
 #### Skills and Proficiency:
 * HTML5, CSS3
