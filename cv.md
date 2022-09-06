@@ -17,6 +17,7 @@ I believe and hope that I will succeed!
 * JavaScript Basics
 * Git, GitHub
 * VS Code
+
 *****
 #### Code example:
 ```
