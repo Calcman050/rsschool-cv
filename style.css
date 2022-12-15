@@ -1,3 +1,219 @@
-body {
-    background-color: bisque;
-}
+html {
+    scroll-behavior: smooth;
+  }
+  
+  a:hover {
+    color: #5f88be;
+  }
+  
+  .page {
+    width: 900px;
+    margin: auto;
+    border: #ffffff 1px solid;
+  }
+  
+  .menu_toggle {
+    opacity: 0;
+  }
+  
+  nav ul {
+    display: flex;
+    justify-content: space-around;
+  }
+
+  label img {
+    display: none;
+  }
+  
+  nav {
+    width: 100%;
+    position: static;
+    right: 80px;
+    top: 30px;
+    background: rgb(0, 0, 0);
+  }
+  
+  nav ul li {
+    list-style: none;
+    text-align: center;
+    margin-top: 10px;
+  }
+  
+  nav li a {
+    text-decoration: none;
+    font: bold 22px "Times New Roman", sans-serif;
+    color: #ffffff;
+  }
+  
+  header {
+    display: flex;
+  }
+  
+  .header-text,
+  .photo {
+    width: 50%;
+  }
+  
+  .header-text {
+    margin-left: 84px;
+    margin-top: 75px;
+  }
+  
+  .photo {
+    margin: 45px 0;
+    margin-left: 20px;
+  }
+  
+  .photo img {
+    width: 330px;
+    margin-left: 63px;
+  }
+  
+  h1 {
+    font-family: "Times New Roman", sans-serif;
+    font-size: 48px;
+  }
+  
+  h1 strong {
+    font-weight: 600;
+  }
+  
+  h4 {
+    font-family: "Times New Roman", sans-serif;
+    font-weight: lighter;
+    text-transform: uppercase;
+    font-size: 20px;
+    color: #000000;
+    padding-top: 20px;
+  }
+  
+  h5 {
+    line-height: 0%;
+    font-size: 0%;
+  }
+  
+  .line {
+    background: #ffffff;
+    width: 100%;
+    height: 3px;
+    margin: 20px 0;
+  }
+  
+  main {
+    display: flex;
+  }
+  
+  section {
+    width: 552px;
+    padding-left: 15px;
+  }
+  
+  article {
+    margin-left: 20px;
+  }
+  
+  aside {
+    background: #000000;
+    width: 333px;
+    color: #ffffff;
+    margin-bottom: 30px;
+  }
+  
+  .contacts {
+    background: #000000;
+    color: #ffffff;
+    padding: 20px;
+  }
+  
+  dl {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  dt {
+    margin-bottom: 7px;
+    font-size: 16px;
+    font-family: "Times new Roman", sans-serif;
+    font-weight: 400;
+  }
+  
+  dd {
+    font-size: 20px;
+    font-family: "Times new Roman", sans-serif;
+    font-weight: lighter;
+  }
+  
+  h2 {
+    text-transform: uppercase;
+    font: 800 20px "Times new Roman", sans-serif;
+    margin-top: 30px;
+    margin-bottom: 20px;
+  }
+  
+  article p {
+    width: 470px;
+    font: lighter 18px "Times new Roman", sans-serif;
+    margin-bottom: 25px;
+  }
+  
+  .experience {
+    margin-bottom: 30px;
+  }
+  
+  .education {
+    margin-top: 40px;
+  }
+  
+  .education,
+  .language,
+  .skills,
+  .courses {
+    width: 190px;
+    margin-left: 40px;
+  }
+  
+  aside p {
+    font: lighter 15px "Times new Roman", sans-serif;
+  }
+  
+  ul {
+    list-style: circle;
+  }
+  
+  li {
+    margin-bottom: 15px;
+    font: 700 15px "Times new Roman", sans-serif;
+  }
+  
+  article img {
+    width: 90%;
+    margin-bottom: 20px;
+  }
+  
+  footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    background: #ffffff;
+  }
+  
+  footer div {
+    width: 300px;
+  }
+  
+  .git-link a {
+    display: flex;
+    align-items: center;
+    margin-left: 40px;
+    text-decoration: none;
+    color: #363636;
+  }
+  
+  .rs-logo img {
+    width: 150px;
+  }
+  
+  .git-link img {
+    width: 70px;
+  }
