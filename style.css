@@ -104,8 +104,10 @@ html {
   }
   
   section {
-    width: 552px;
+    background: #000000;
+    width: 333px;
     padding-left: 15px;
+    color: #ffffff
   }
   
   article {
@@ -113,9 +115,9 @@ html {
   }
   
   aside {
-    background: #000000;
-    width: 333px;
-    color: #ffffff;
+    background: #ffffff;
+    width: 552px;
+    color: #000000;
     margin-bottom: 30px;
   }
   
